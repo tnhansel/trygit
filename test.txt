@@ -1,2 +1,4 @@
 test files
 patch files is added
+
+features with removable sliders
